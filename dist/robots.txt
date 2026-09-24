@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://elanora-fragrances-pakistan.abuzz-luck-6134.chatgpt.site/sitemap.xml
