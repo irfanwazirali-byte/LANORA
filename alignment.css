@@ -1,0 +1,7 @@
+/* Keep product actions aligned regardless of title or metadata length. */
+.grid{align-items:stretch}
+.card{display:flex;flex-direction:column;height:100%}
+.card>.card-body{display:flex;flex:1;flex-direction:column;width:100%}
+.card .card-actions{margin-top:auto;padding-top:1rem}
+.card-actions .btn{min-height:3.65rem;line-height:1.15}
+@media(max-width:580px){.card-actions .btn{min-height:3.25rem}}
